@@ -1,0 +1,11 @@
+{
+  "slug": "token-story",
+  "name": "Token Story",
+  "kind": "token",
+  "description": "Bind a coin launch to a compact origin story and permanent provenance payload.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
