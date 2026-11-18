@@ -8,7 +8,7 @@ Bind a coin launch to a compact origin story and permanent provenance payload.
 
 - Source: https://github.com/nirholas/token-story
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
